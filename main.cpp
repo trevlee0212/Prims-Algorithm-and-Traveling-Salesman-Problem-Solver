@@ -1,7 +1,3 @@
-//3E33912F8BAA7542FC4A1585D2DB6FE0312725B9
-//  main.cpp
-//  p4-zoo
-//
 //  Created by Trevor Lee on 11/19/21.
 //  Copyright © 2021 Trevor Lee. All rights reserved.
 //
